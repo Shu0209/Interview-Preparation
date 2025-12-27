@@ -1,7 +1,7 @@
-langchain==1.2.0
-langchain_openai==1.1.6
-faiss-cpu==1.8.0
-matplotlib==3.10.8
+langchain==0.2.16
+langchain-openai==0.1.25
+faiss-cpu==1.13.2
+matplotlib==3.8.4
 PyPDF2==3.0.1
-python-dotenv==1.2.1
-streamlit==1.50.0
+python-dotenv==1.0.1
+streamlit==1.38.0
