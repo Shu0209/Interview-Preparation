@@ -1,5 +1,6 @@
 langchain==0.2.16
 langchain-openai==0.1.25
+langchain-community==0.2.16
 faiss-cpu==1.13.2
 matplotlib==3.8.4
 PyPDF2==3.0.1
